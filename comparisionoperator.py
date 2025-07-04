@@ -1,0 +1,10 @@
+iphone=20000
+iphone_16=92000
+Ap=20
+Blr=18
+print(Ap>Blr)#true
+print(iphone<iphone_16)#true
+print(Ap!=Blr)#true
+print(iphone>=iphone_16)#false
+print(iphone==iphone_16)#false
+print(Ap<=Blr)#false
